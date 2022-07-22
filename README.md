@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there!
 
-My name is Zaqueu Santos I'm from Brazil (🇧🇷). I've been working as software engineer since 2018 and currently I'm mobile developer at [Hotmart](https://www.hotmart.com/en).
+My name is Zaqueu Santos I'm from Brazil (🇧🇷). I've been working as a software engineer since 2018 and currently I'm mobile developer at [Hotmart](https://www.hotmart.com/en).
 
 ### You can find me on
 
